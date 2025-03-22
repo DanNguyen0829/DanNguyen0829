@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I'm Dan. I'm a complete noob when it comes to tech and coding, so I will try my best to learn and build awesome projects! 
+## I would be very grateful if anyone with experience could show me the ropes of becoming a better programmer!
 <!--
 **DanNguyen0829/DanNguyen0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
